@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModChallenge", "ModChallenge\ModChallenge.csproj", "{845A46C5-991E-43D7-99FB-8DB390BAAC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{845A46C5-991E-43D7-99FB-8DB390BAAC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845A46C5-991E-43D7-99FB-8DB390BAAC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845A46C5-991E-43D7-99FB-8DB390BAAC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845A46C5-991E-43D7-99FB-8DB390BAAC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C6F5BA8-6277-4315-944C-B46B25CBCF4A}
+	EndGlobalSection
+EndGlobal
